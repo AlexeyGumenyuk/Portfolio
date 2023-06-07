@@ -69,7 +69,7 @@
 ## Расчёт эффективности
 Эффективность обогащения рассчитывается по формуле:
 
-$$ Recovery = \frac {C \cdot (F - T)} {F \cdot (C - T)} * 100 \% $$
+$$ Recovery = \frac {C \cdot (F - T)} {F \cdot (C - T)} \cdot 100 \% $$
 
 где:
 
@@ -88,4 +88,5 @@ $T$ — доля золота в отвальных хвостах после ф
 - Эффективность обогащения финального концентрата `final.output.recovery`.
 
 Итоговая метрика складывается из двух величин:
-$$ Итоговая \ sMAPE = 25\% \cdot sMAPE(rougher) + 75\% \cdot sMAPE(final) $$
+
+$$ Итоговая \ sMAPE = 25 \% \cdot sMAPE(rougher) + 75 \% \cdot sMAPE(final) $$
