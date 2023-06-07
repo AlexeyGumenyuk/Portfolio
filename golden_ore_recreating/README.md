@@ -69,7 +69,7 @@
 ## Расчёт эффективности
 Эффективность обогащения рассчитывается по формуле:
 
-$$ Recovery = \frac {C \cdot (F - T)} {F \cdot (C - T)} \cdot 100 \% $$
+$$ Recovery = \frac {C \cdot (F - T)} {F \cdot (C - T)} \cdot 100\% $$
 
 где:
 
