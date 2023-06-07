@@ -89,4 +89,4 @@ $T$ — доля золота в отвальных хвостах после ф
 
 Итоговая метрика складывается из двух величин:
 
-$$ Итоговая \ sMAPE = 25 \% \cdot sMAPE(rougher) + 75 \% \cdot sMAPE(final) $$
+$$ Итоговая \ sMAPE = 25\% \cdot sMAPE(rougher) + 75\% \cdot sMAPE(final) $$
