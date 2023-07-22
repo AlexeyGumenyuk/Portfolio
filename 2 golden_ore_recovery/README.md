@@ -8,7 +8,7 @@
 ## Инструменты
 - Pandas
 - NumPy
-- Mayplotlib
+- Matplotlib
 - Seaborn
 - Scikit-learn
 
